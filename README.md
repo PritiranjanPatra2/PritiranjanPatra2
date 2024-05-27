@@ -1,16 +1,20 @@
-## Hi there 👋
+<p align="center">
+<img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
+<hr>
+<h1 align="center">I'm <a href="https://www.linkedin.com/in/pritiranjan-patra-771a91287/">Pritiranjan Patra<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<Br>
+<h1>About Me! 😎</h1>
 
-<!--
-**PritiranjanPatra2/PritiranjanPatra2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏫: I'm a MCA Student.
+- 🔭: I’m currently working on many small MERN projects.
+- 🌱: I’m currently learning Frontend Frameworks. 🧠💻🤖
+- 🤔: I’m looking for help with anything I am currently learning! 😅
+- 💬: Ask me about Data Structures, Java, Web Development. 📊📈🤖🧠
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I play Cricket, Tennis and the Piano! ⚽🎾🎹
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<hr>
+<Br>
