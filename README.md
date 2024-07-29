@@ -99,3 +99,20 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritiranjanpatra2&" alt="pritiranjanpatra2" />
 </p>
+
+<style>
+@keyframes slideIn {
+  from {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+h1, h3, p, a, img {
+  animation: slideIn 1s ease-in-out;
+}
+</style>
