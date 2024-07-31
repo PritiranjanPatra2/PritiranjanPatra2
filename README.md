@@ -91,6 +91,18 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />
   </a>
+  <a href="https://www.w3schools.com/xml/xpath_intro.asp" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/XPath-2E93AD?style=for-the-badge&logo=xpath&logoColor=white" alt="xpath" />
+  </a>
+  <a href="https://testng.org/doc/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TestNG-FF8300?style=for-the-badge&logo=testng&logoColor=white" alt="testng" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" />
+  </a>
+  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse" />
+  </a>
 </p>
 
 ---
