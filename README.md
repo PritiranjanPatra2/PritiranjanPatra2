@@ -79,6 +79,9 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
   </a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
+  </a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" />
   </a>
