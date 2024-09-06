@@ -70,6 +70,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
   </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
   </a>
@@ -81,6 +84,9 @@
   </a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
+  </a>
+  <a href="https://render.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Render-0468D7?style=for-the-badge&logo=render&logoColor=white" alt="render" />
   </a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" />
