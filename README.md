@@ -22,9 +22,7 @@
   <a href="https://instagram.com/patra_prtitiranjan957" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="patra_prtitiranjan957" />
   </a>
-  <a href="https://nodemailer.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Nodemailer-337ab7?style=for-the-badge&logo=nodemailer&logoColor=white" alt="nodemailer" />
-</a>
+ 
 
   <a href="https://www.hackerrank.com/patrapritiranja1" target="blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="patrapritiranja1" />
@@ -80,6 +78,9 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
   </a>
+   <a href="https://nodemailer.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Nodemailer-337ab7?style=for-the-badge&logo=nodemailer&logoColor=white" alt="nodemailer" />
+</a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
   </a>
