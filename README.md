@@ -78,9 +78,15 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
   </a>
-   <a href="https://nodemailer.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Nodemailer-337ab7?style=for-the-badge&logo=nodemailer&logoColor=white" alt="nodemailer" />
-</a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
+  </a>
+  <a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="cloudinary" />
+  </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
   </a>
@@ -93,9 +99,6 @@
   <a href="https://render.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Render-0468D7?style=for-the-badge&logo=render&logoColor=white" alt="render" />
   </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" />
-  </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
   </a>
@@ -104,18 +107,6 @@
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />
-  </a>
-  <a href="https://www.w3schools.com/xml/xpath_intro.asp" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/XPath-2E93AD?style=for-the-badge&logo=xpath&logoColor=white" alt="xpath" />
-  </a>
-  <a href="https://testng.org/doc/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TestNG-FF8300?style=for-the-badge&logo=testng&logoColor=white" alt="testng" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" />
-  </a>
-  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse" />
   </a>
 </p>
 
